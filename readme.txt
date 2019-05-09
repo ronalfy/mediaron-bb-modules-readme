@@ -1,5 +1,4 @@
 === MediaRon Modules for Beaver Builder ===
-Contributors: ronalfy
 Tags: beaver builder, beaver builder modules
 Requires at least: 4.9
 Tested up to: 5.2
