@@ -2,7 +2,7 @@
 Tags: beaver builder, beaver builder modules
 Requires at least: 4.9
 Tested up to: 5.2
-Stable tag: 2.0.1
+Stable tag: 2.0.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Donate link: https://mediaron.com/contribute/
@@ -14,6 +14,9 @@ A growing list of Beaver Builder modules.
 A growing list of Beaver Builder modules.
 
 == Changelog ==
+
+= 2.0.5 -
+* Adding GitHub Markdown module
 
 = 2.0.1 =
 * Tested up to 5.2.
@@ -155,6 +158,9 @@ A growing list of Beaver Builder modules.
 
 
 == Upgrade Notice ==
+
+= 2.0.5 =
+Adding GitHub Markdown module.
 
 = 2.0.1 =
 Tested up to 5.2. Fixing error where official buttons weren't being displayed on Jetpack Sharing module.
