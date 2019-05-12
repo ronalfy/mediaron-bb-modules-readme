@@ -15,7 +15,7 @@ A growing list of Beaver Builder modules.
 
 == Changelog ==
 
-= 2.0.5 -
+= 2.0.5 =
 * Adding GitHub Markdown module
 
 = 2.0.1 =
